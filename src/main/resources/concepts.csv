@@ -1,0 +1,10 @@
+hash,intro,Parent,parents,parent,pf1,pf2,pf3,Child,children,child,cf1,cf2,cf3,v1,v2,v3,cf4,low,high
+3,Your personal task is to develop a system of libraries and books that these libraries hold.,Library,libraries,library,id,name,address,Book,books,book,title,author,publisher,Springer,IEEE,ACM,pages,5,1000
+5,Your personal task is to develop a system of hotels and the rooms inside these hotels.,Hotel,hotels,hotel,id,name,description,Room,rooms,room,name,description,category,suite,penthouse,simple,guests,1,12
+1,Your personal task is to develop a system of modules and students taking these modules.,Module,modules,module,id,title,description,Student,students,student,name,country,program,Computer Science,Creative Computing,Software Engineering,hours,0,40
+2,Your personal task is to develop a system of TV channels and shows running on these channels.,Channel,channels,channel,id,name,topic,Show,shows,show,title,producer,category,Comedy,Documentary,Drama,episodes,1,24
+4,Your personal task is to develop a system of shops and the products these have in stock.,Shop,shops,shop,id,chain,address,Product,products,product,name,description,shelf,Food,Decoration,Tools,stock,0,500
+6,Your personal task is to develop a system of managers and employees.,Manager,managers,manager,id,name,title,Employee,employees,employee,name,job,salutation,Hi,Hello,Good Day,vacation,0,25
+7,Your personal task is to develop a system of food dishes and their ingredients.,Dish,dishes,dish,id,title,country,Ingredient,ingredients,ingredient,name,allergies,unit,spoon,gram,kilo,amount,1,200
+8,Your personal task is to develop a system of tutors and details about their tutees.,Tutor,tutors,tutor,id,academic,department,Tutee,tutees,tutee,id,studies,hobbies,soccer,football,futsal,age,18,65
+9,Your personal task is to develop a system of movies and details about their actors.,Movie,movies,movie,id,title,city,Actor,actors,actor,surname,firstName,language,English,German,Spanish,age,1,120
